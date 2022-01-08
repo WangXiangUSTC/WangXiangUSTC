@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![WangXiangUSTC's github stats](https://github-readme-stats.vercel.app/api?username=WangXiangUSTC&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/WangXiangUSTC/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangXiangUSTC&langs_count=5&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
