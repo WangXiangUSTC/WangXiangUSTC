@@ -1,25 +1,10 @@
 ### Hi there 👋
 
-<!--
-**WangXiangUSTC/WangXiangUSTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on [PingCAP](https://pingcap.com/). My job is the development of the TiDB ecosystem tools and Chaos engineering test platform.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Chinese Blog List](./zh_blog_list.md)
+- [My English Bolg List](./en_blog_list.md)
 
 [![WangXiangUSTC's github stats](https://github-readme-stats.vercel.app/api?username=WangXiangUSTC&show_icons=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/WangXiangUSTC/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangXiangUSTC&langs_count=5&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
