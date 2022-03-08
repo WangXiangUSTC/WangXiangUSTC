@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on [PingCAP](https://pingcap.com/). My job is the development of the TiDB ecosystem tools and Chaos engineering test platform.
+I’m currently working on [PingCAP](https://pingcap.com/). My job is the development of the TiDB ecosystem tools and Chaos Engineering test platform.
 
 - [My Chinese Blog List](./zh_blog_list.md)
 - [My English Bolg List](./en_blog_list.md)
